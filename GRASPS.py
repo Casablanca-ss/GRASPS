@@ -7,9 +7,9 @@ import pandas as pd
 
 # load data
 data_train = pd.read_csv(
-    r"F:\precipitation\data2\train_model\all_data_train_del_abnormal.csv")
+    r".\csv\all_data_train_del_abnormal.csv")
 data_test = pd.read_csv(
-    r"F:\precipitation\data2\test_model\all_data_test_del_abnormal.csv")
+    r".\csv\all_data_test_del_abnormal.csv")
 
 # choice input variables
 predictors_train = data_train[["gpm", "trmm", "cdr", "cloud", "month", "day2"]].values
