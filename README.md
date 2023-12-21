@@ -7,3 +7,6 @@ A method for fusing multiple sources of satellite precipitation to generate a mo
 * Overall performance of the model:
 
 ![scatter plot](./scatter%20plot.png)
+
+
+![scatter plot2](./Fig.5.png)
