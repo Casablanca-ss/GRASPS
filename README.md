@@ -9,4 +9,4 @@ A method for fusing multiple sources of satellite precipitation to generate a mo
 ![scatter plot](./scatter%20plot.png)
 
 
-![scatter plot2](./scatter plot2.png)
+![scatter plot2](./scatter20%plot2.png)
